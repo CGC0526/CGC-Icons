@@ -1,0 +1,766 @@
+{
+  "name": "Dashboard Icons (Selected for Loon)",
+  "icons": [
+    {
+      "name": "adobe.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/adobe.png"
+    },
+    {
+      "name": "airtable.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/airtable.png"
+    },
+    {
+      "name": "airvpn.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/airvpn.png"
+    },
+    {
+      "name": "app-store.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/app-store.png"
+    },
+    {
+      "name": "apple-alt.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-alt.png"
+    },
+    {
+      "name": "apple-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-light.png"
+    },
+    {
+      "name": "apple-maps.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-maps.png"
+    },
+    {
+      "name": "apple-music.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-music.png"
+    },
+    {
+      "name": "apple-podcasts.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-podcasts.png"
+    },
+    {
+      "name": "apple-tv-plus.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-tv-plus.png"
+    },
+    {
+      "name": "apple.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple.png"
+    },
+    {
+      "name": "asana.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/asana.png"
+    },
+    {
+      "name": "atlassian-confluence.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/atlassian-confluence.png"
+    },
+    {
+      "name": "atlassian-jira.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/atlassian-jira.png"
+    },
+    {
+      "name": "atlassian-trello.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/atlassian-trello.png"
+    },
+    {
+      "name": "atlassian.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/atlassian.png"
+    },
+    {
+      "name": "azure.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/azure.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/bilibili.png"
+    },
+    {
+      "name": "bitbucket.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/bitbucket.png"
+    },
+    {
+      "name": "bluesky.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/bluesky.png"
+    },
+    {
+      "name": "chatgpt.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/chatgpt.png"
+    },
+    {
+      "name": "clash.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/clash.png"
+    },
+    {
+      "name": "claude-ai-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/claude-ai-light.png"
+    },
+    {
+      "name": "claude-ai.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/claude-ai.png"
+    },
+    {
+      "name": "clickup.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/clickup.png"
+    },
+    {
+      "name": "cloudflare-zero-trust.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare-zero-trust.png"
+    },
+    {
+      "name": "cloudflare.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare.png"
+    },
+    {
+      "name": "confluence.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/confluence.png"
+    },
+    {
+      "name": "crunchyroll.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/crunchyroll.png"
+    },
+    {
+      "name": "deepseek.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/deepseek.png"
+    },
+    {
+      "name": "discord.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/discord.png"
+    },
+    {
+      "name": "disney-plus.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/disney-plus.png"
+    },
+    {
+      "name": "dropbox.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/dropbox.png"
+    },
+    {
+      "name": "electronic-arts.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/electronic-arts.png"
+    },
+    {
+      "name": "emby.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/emby.png"
+    },
+    {
+      "name": "epic-games-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/epic-games-light.png"
+    },
+    {
+      "name": "epic-games.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/epic-games.png"
+    },
+    {
+      "name": "evernote.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/evernote.png"
+    },
+    {
+      "name": "facebook-messenger.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/facebook-messenger.png"
+    },
+    {
+      "name": "facebook.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/facebook.png"
+    },
+    {
+      "name": "figma.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/figma.png"
+    },
+    {
+      "name": "git.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/git.png"
+    },
+    {
+      "name": "gitee.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gitee.png"
+    },
+    {
+      "name": "github-copilot-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github-copilot-dark.png"
+    },
+    {
+      "name": "github-copilot.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github-copilot.png"
+    },
+    {
+      "name": "github-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github-light.png"
+    },
+    {
+      "name": "github.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github.png"
+    },
+    {
+      "name": "gitlab.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gitlab.png"
+    },
+    {
+      "name": "gmail.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gmail.png"
+    },
+    {
+      "name": "google-calendar.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-calendar.png"
+    },
+    {
+      "name": "google-chrome.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-chrome.png"
+    },
+    {
+      "name": "google-cloud-platform.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-cloud-platform.png"
+    },
+    {
+      "name": "google-docs.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-docs.png"
+    },
+    {
+      "name": "google-drive.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-drive.png"
+    },
+    {
+      "name": "google-earth.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-earth.png"
+    },
+    {
+      "name": "google-gemini.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-gemini.png"
+    },
+    {
+      "name": "google-maps.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-maps.png"
+    },
+    {
+      "name": "google-meet.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-meet.png"
+    },
+    {
+      "name": "google-one.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-one.png"
+    },
+    {
+      "name": "google-pay.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-pay.png"
+    },
+    {
+      "name": "google-photos.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-photos.png"
+    },
+    {
+      "name": "google-scholar.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-scholar.png"
+    },
+    {
+      "name": "google-sheets.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-sheets.png"
+    },
+    {
+      "name": "google-slides.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-slides.png"
+    },
+    {
+      "name": "google-translate.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-translate.png"
+    },
+    {
+      "name": "google-wallet.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-wallet.png"
+    },
+    {
+      "name": "google.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google.png"
+    },
+    {
+      "name": "grok-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/grok-dark.png"
+    },
+    {
+      "name": "grok.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/grok.png"
+    },
+    {
+      "name": "hugging-face.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/hugging-face.png"
+    },
+    {
+      "name": "hulu.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/hulu.png"
+    },
+    {
+      "name": "icloud.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/icloud.png"
+    },
+    {
+      "name": "instagram.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/instagram.png"
+    },
+    {
+      "name": "jellyfin.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jellyfin.png"
+    },
+    {
+      "name": "jira.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jira.png"
+    },
+    {
+      "name": "jitsi-meet.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jitsi-meet.png"
+    },
+    {
+      "name": "jitsi.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jitsi.png"
+    },
+    {
+      "name": "joplin.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/joplin.png"
+    },
+    {
+      "name": "kimi-ai.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kimi-ai.png"
+    },
+    {
+      "name": "linear-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linear-dark.png"
+    },
+    {
+      "name": "linear.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linear.png"
+    },
+    {
+      "name": "linkedin.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linkedin.png"
+    },
+    {
+      "name": "mastodon.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mastodon.png"
+    },
+    {
+      "name": "microsoft-365.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-365.png"
+    },
+    {
+      "name": "microsoft-azure.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-azure.png"
+    },
+    {
+      "name": "microsoft-copilot.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-copilot.png"
+    },
+    {
+      "name": "microsoft-edge.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-edge.png"
+    },
+    {
+      "name": "microsoft-excel.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-excel.png"
+    },
+    {
+      "name": "microsoft-office.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-office.png"
+    },
+    {
+      "name": "microsoft-onedrive.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-onedrive.png"
+    },
+    {
+      "name": "microsoft-onenote.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-onenote.png"
+    },
+    {
+      "name": "microsoft-outlook.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-outlook.png"
+    },
+    {
+      "name": "microsoft-powerpoint.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-powerpoint.png"
+    },
+    {
+      "name": "microsoft-sharepoint.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-sharepoint.png"
+    },
+    {
+      "name": "microsoft-teams.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-teams.png"
+    },
+    {
+      "name": "microsoft-word.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-word.png"
+    },
+    {
+      "name": "microsoft.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft.png"
+    },
+    {
+      "name": "midjourney-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/midjourney-light.png"
+    },
+    {
+      "name": "midjourney.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/midjourney.png"
+    },
+    {
+      "name": "minecraft.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/minecraft.png"
+    },
+    {
+      "name": "miro.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/miro.png"
+    },
+    {
+      "name": "mistral-ai.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mistral-ai.png"
+    },
+    {
+      "name": "mullvad-vpn.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mullvad-vpn.png"
+    },
+    {
+      "name": "netflix.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/netflix.png"
+    },
+    {
+      "name": "nintendo-switch.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png"
+    },
+    {
+      "name": "nordvpn.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nordvpn.png"
+    },
+    {
+      "name": "notebook-lm-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/notebook-lm-dark.png"
+    },
+    {
+      "name": "notebook-lm.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/notebook-lm.png"
+    },
+    {
+      "name": "notion-calendar.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/notion-calendar.png"
+    },
+    {
+      "name": "notion-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/notion-light.png"
+    },
+    {
+      "name": "notion-mail.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/notion-mail.png"
+    },
+    {
+      "name": "notion.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/notion.png"
+    },
+    {
+      "name": "obsidian.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/obsidian.png"
+    },
+    {
+      "name": "office-365.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/office-365.png"
+    },
+    {
+      "name": "ollama-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png"
+    },
+    {
+      "name": "ollama.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama.png"
+    },
+    {
+      "name": "ookla-speedtest.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ookla-speedtest.png"
+    },
+    {
+      "name": "openai-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openai-light.png"
+    },
+    {
+      "name": "openai.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openai.png"
+    },
+    {
+      "name": "openstreetmap.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openstreetmap.png"
+    },
+    {
+      "name": "openvpn.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openvpn.png"
+    },
+    {
+      "name": "paypal.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/paypal.png"
+    },
+    {
+      "name": "perplexity-book-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/perplexity-book-dark.png"
+    },
+    {
+      "name": "perplexity-book-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/perplexity-book-light.png"
+    },
+    {
+      "name": "perplexity-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/perplexity-dark.png"
+    },
+    {
+      "name": "perplexity-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/perplexity-light.png"
+    },
+    {
+      "name": "playstation.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/playstation.png"
+    },
+    {
+      "name": "plex.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/plex.png"
+    },
+    {
+      "name": "prime-video-alt.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/prime-video-alt.png"
+    },
+    {
+      "name": "prime-video-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/prime-video-light.png"
+    },
+    {
+      "name": "prime-video.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/prime-video.png"
+    },
+    {
+      "name": "proton-calendar.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proton-calendar.png"
+    },
+    {
+      "name": "proton-drive.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proton-drive.png"
+    },
+    {
+      "name": "proton-mail.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proton-mail.png"
+    },
+    {
+      "name": "proton-pass.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proton-pass.png"
+    },
+    {
+      "name": "proton-vpn.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proton-vpn.png"
+    },
+    {
+      "name": "qwen.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/qwen.png"
+    },
+    {
+      "name": "reddit.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/reddit.png"
+    },
+    {
+      "name": "router.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/router.png"
+    },
+    {
+      "name": "safari-ios.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/safari-ios.png"
+    },
+    {
+      "name": "safari.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/safari.png"
+    },
+    {
+      "name": "signal.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/signal.png"
+    },
+    {
+      "name": "skype.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/skype.png"
+    },
+    {
+      "name": "slack.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/slack.png"
+    },
+    {
+      "name": "snapchat-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/snapchat-dark.png"
+    },
+    {
+      "name": "snapchat.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/snapchat.png"
+    },
+    {
+      "name": "soundcloud-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/soundcloud-dark.png"
+    },
+    {
+      "name": "soundcloud.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/soundcloud.png"
+    },
+    {
+      "name": "speedtest-tracker.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/speedtest-tracker.png"
+    },
+    {
+      "name": "spotify.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/spotify.png"
+    },
+    {
+      "name": "stash.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/stash.png"
+    },
+    {
+      "name": "steam.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/steam.png"
+    },
+    {
+      "name": "stremio.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/stremio.png"
+    },
+    {
+      "name": "sub-store.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/sub-store.png"
+    },
+    {
+      "name": "tailscale-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tailscale-light.png"
+    },
+    {
+      "name": "tailscale.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tailscale.png"
+    },
+    {
+      "name": "team-viewer.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/team-viewer.png"
+    },
+    {
+      "name": "teamspeak.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/teamspeak.png"
+    },
+    {
+      "name": "telegram.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/telegram.png"
+    },
+    {
+      "name": "threads-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/threads-light.png"
+    },
+    {
+      "name": "threads.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/threads.png"
+    },
+    {
+      "name": "tidal-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tidal-dark.png"
+    },
+    {
+      "name": "tidal.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tidal.png"
+    },
+    {
+      "name": "tiktok-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tiktok-light.png"
+    },
+    {
+      "name": "tiktok.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tiktok.png"
+    },
+    {
+      "name": "todoist-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/todoist-dark.png"
+    },
+    {
+      "name": "todoist.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/todoist.png"
+    },
+    {
+      "name": "tumblr.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tumblr.png"
+    },
+    {
+      "name": "twitch.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/twitch.png"
+    },
+    {
+      "name": "twitter.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/twitter.png"
+    },
+    {
+      "name": "visual-studio-code.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/visual-studio-code.png"
+    },
+    {
+      "name": "vscode.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vscode.png"
+    },
+    {
+      "name": "waze.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/waze.png"
+    },
+    {
+      "name": "webex.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/webex.png"
+    },
+    {
+      "name": "whatsapp.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/whatsapp.png"
+    },
+    {
+      "name": "wireguard.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireguard.png"
+    },
+    {
+      "name": "x-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/x-light.png"
+    },
+    {
+      "name": "x.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/x.png"
+    },
+    {
+      "name": "xbox-game-pass.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/xbox-game-pass.png"
+    },
+    {
+      "name": "xbox.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/xbox.png"
+    },
+    {
+      "name": "youtube-kids.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/youtube-kids.png"
+    },
+    {
+      "name": "youtube-music.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/youtube-music.png"
+    },
+    {
+      "name": "youtube-tv.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/youtube-tv.png"
+    },
+    {
+      "name": "youtube.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/youtube.png"
+    },
+    {
+      "name": "zapier-dark.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zapier-dark.png"
+    },
+    {
+      "name": "zapier.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zapier.png"
+    },
+    {
+      "name": "zerotier-light.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zerotier-light.png"
+    },
+    {
+      "name": "zerotier.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zerotier.png"
+    },
+    {
+      "name": "zoom-alt.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zoom-alt.png"
+    },
+    {
+      "name": "zoom.png",
+      "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zoom.png"
+    }
+  ],
+  "description": "Curated Homarr Dashboard Icons for common Loon/Surge policy groups: Apple, AI, Google, Microsoft, productivity, conferencing, social, streaming, payments, VPN/networking, gaming, and maps. PNG served via jsDelivr. Generated 2026-08-08."
+}

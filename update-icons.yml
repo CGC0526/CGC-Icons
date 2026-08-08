@@ -1,0 +1,71 @@
+name: Update Dashboard Icons for Loon
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+      timezone: "Asia/Shanghai"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-dashboard-icons
+  cancel-in-progress: false
+
+jobs:
+  update-icons:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Generate Loon iconsets
+        run: python scripts/generate_icons.py
+
+      - name: Validate generated JSON
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          required = [
+              Path("IconSet/Dashboard-Icons-Loon-Full.json"),
+              Path("IconSet/Dashboard-Icons-Loon-Selected.json"),
+          ]
+
+          for path in required:
+              data = json.loads(path.read_text(encoding="utf-8"))
+              assert isinstance(data.get("name"), str) and data["name"]
+              assert isinstance(data.get("icons"), list) and data["icons"]
+              for item in data["icons"]:
+                  assert isinstance(item.get("name"), str) and item["name"]
+                  assert isinstance(item.get("url"), str) and item["url"].startswith("https://")
+              print(f"{path}: {len(data['icons'])} icons OK")
+          PY
+
+      - name: Check for changes
+        id: changes
+        shell: bash
+        run: |
+          if git diff --quiet -- IconSet/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push updates
+        if: steps.changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add IconSet/
+          git commit -m "chore: update Dashboard Icons for Loon"
+          git push
