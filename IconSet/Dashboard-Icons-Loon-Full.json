@@ -11194,5 +11194,5 @@
       "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zyxel-networks.png"
     }
   ],
-  "description": "Homarr Dashboard Icons converted to Loon iconset format. Source: homarr-labs/dashboard-icons tree.json (main). PNG served via jsDelivr. Generated 2026-08-08."
+  "description": "Homarr Dashboard Icons converted to Loon iconset format from upstream tree.json; PNG served via jsDelivr."
 }
